@@ -6,7 +6,7 @@ This repository is part of my learning journey in the [React.js Introduction Cou
 
 ## Project Objectives
 
-My main goal in creating this repository is to enhance my skills in React.js and apply what I've learned in the course to practical projects.
+My main goal in creating this repository is to enhance my skills in React.js and apply what I've learned in the course to practical projects. [view app.](https://xseb4s.github.io/curso-react-intro/)
 
 ## Getting Started with Create React App
 
